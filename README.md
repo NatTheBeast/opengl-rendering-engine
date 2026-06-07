@@ -1,4 +1,4 @@
-# OpenGL Rendering Engine
+# OpenGL Rendering Engine 
 
 A real-time 3D rendering engine built with **OpenGL and C++** as part of the INF2705 Computer Graphics course at Polytechnique Montréal.
 
